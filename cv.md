@@ -1,6 +1,6 @@
 # Euheni Andreevich Yanson
 32 years, 13.04.1989
-![markdown-foto](img/euheni.png)
+![markdown-foto](euheni.png)
 ## Connection
 * **+375298883889**
 * **yanson.yauhen@gmail.com**
@@ -86,6 +86,7 @@ export default timer;
 2. Udemy
     * Udemy, Web developer
     * Udemy, JavaScript + React
+    
     ## Languages
  * English
  * Russian
