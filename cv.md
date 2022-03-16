@@ -1,7 +1,7 @@
 # Euheni Andreevich Yanson
 32 years, 13.04.1989
-
 ![markdown-foto](img/euheni.png)
+
 ## Connection
 * **+375298883889**
 * **yanson.yauhen@gmail.com**
